@@ -1,0 +1,12 @@
+C:\Users\heric\source\repos\SquadManager\Comoon\bin\Debug\net6.0\Comoon.deps.json
+C:\Users\heric\source\repos\SquadManager\Comoon\bin\Debug\net6.0\Comoon.dll
+C:\Users\heric\source\repos\SquadManager\Comoon\bin\Debug\net6.0\Comoon.pdb
+C:\Users\heric\source\repos\SquadManager\Comoon\obj\Debug\net6.0\Comoon.csproj.AssemblyReference.cache
+C:\Users\heric\source\repos\SquadManager\Comoon\obj\Debug\net6.0\Comoon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heric\source\repos\SquadManager\Comoon\obj\Debug\net6.0\Comoon.AssemblyInfoInputs.cache
+C:\Users\heric\source\repos\SquadManager\Comoon\obj\Debug\net6.0\Comoon.AssemblyInfo.cs
+C:\Users\heric\source\repos\SquadManager\Comoon\obj\Debug\net6.0\Comoon.csproj.CoreCompileInputs.cache
+C:\Users\heric\source\repos\SquadManager\Comoon\obj\Debug\net6.0\Comoon.dll
+C:\Users\heric\source\repos\SquadManager\Comoon\obj\Debug\net6.0\refint\Comoon.dll
+C:\Users\heric\source\repos\SquadManager\Comoon\obj\Debug\net6.0\Comoon.pdb
+C:\Users\heric\source\repos\SquadManager\Comoon\obj\Debug\net6.0\ref\Comoon.dll

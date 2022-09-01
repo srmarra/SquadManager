@@ -1,0 +1,31 @@
+﻿body {
+}
+section{
+    border:1px solid black;
+    display:flex;
+    flex-direction:column;
+    width: 500px;
+    align-items: center;
+    margin: 100px auto;
+}
+form{
+    display:flex;
+    flex-direction:column;
+}
+
+input{
+    margin-top: 20px;
+}
+form a{
+    text-align: right;
+}
+
+button{
+    margin:20px;
+    background-color: limegreen;
+    border: none;
+    border-radius: 5px;
+    color:white;
+    margin: 20px auto 20px auto;
+    padding: 7px 10px 7px 10px;
+}

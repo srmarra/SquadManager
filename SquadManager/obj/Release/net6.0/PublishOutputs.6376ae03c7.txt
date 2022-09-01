@@ -1,0 +1,7 @@
+C:\Users\heric\source\repos\SquadManager\SquadManager\obj\Release\net6.0\PubTmp\Out\SquadManager.exe
+C:\Users\heric\source\repos\SquadManager\SquadManager\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\heric\source\repos\SquadManager\SquadManager\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\heric\source\repos\SquadManager\SquadManager\obj\Release\net6.0\PubTmp\Out\SquadManager.dll
+C:\Users\heric\source\repos\SquadManager\SquadManager\obj\Release\net6.0\PubTmp\Out\SquadManager.deps.json
+C:\Users\heric\source\repos\SquadManager\SquadManager\obj\Release\net6.0\PubTmp\Out\SquadManager.runtimeconfig.json
+C:\Users\heric\source\repos\SquadManager\SquadManager\obj\Release\net6.0\PubTmp\Out\SquadManager.pdb
