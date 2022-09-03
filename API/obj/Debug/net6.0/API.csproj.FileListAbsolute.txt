@@ -29,3 +29,5 @@ C:\Users\heric\source\repos\SquadManager\API\obj\Debug\net6.0\refint\API.dll
 C:\Users\heric\source\repos\SquadManager\API\obj\Debug\net6.0\API.pdb
 C:\Users\heric\source\repos\SquadManager\API\obj\Debug\net6.0\API.genruntimeconfig.cache
 C:\Users\heric\source\repos\SquadManager\API\obj\Debug\net6.0\ref\API.dll
+C:\Users\heric\source\repos\SquadManager\API\bin\Debug\net6.0\API.xml
+C:\Users\heric\source\repos\SquadManager\API\obj\Debug\net6.0\API.xml

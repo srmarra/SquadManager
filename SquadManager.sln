@@ -11,11 +11,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Aplication", "2.Aplicatio
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{F4616FCA-22BD-4F91-9BCA-865F9381C073}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{6DC25ED1-E91D-45BE-8491-77B7F538232E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API", "API\API.csproj", "{6DC25ED1-E91D-45BE-8491-77B7F538232E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{B8E7B140-2511-49B0-AC98-FDE5C75C3D04}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repository", "Repository\Repository.csproj", "{B8E7B140-2511-49B0-AC98-FDE5C75C3D04}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comoon", "Comoon\Comoon.csproj", "{82A32A9F-6C09-4BDE-952A-0D7A143EA7E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Comoon", "Comoon\Comoon.csproj", "{82A32A9F-6C09-4BDE-952A-0D7A143EA7E9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

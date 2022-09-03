@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "50rQLSdbRDIp+QzJLuBj2iCF1zwKFOLG86C2ATse0Ll9FL8qD9vH3jv7FyXOfsygpTj6AhOaHjfFwp1VyD+J/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\heric\\source\\repos\\SquadManager\\WebApplication2\\WebApplication2.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\heric\\.nuget\\packages\\fsharp.core\\6.0.5\\fsharp.core.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

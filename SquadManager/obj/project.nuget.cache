@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ysBB5Uz3cFhe5JP+NZs/ZZ0h0f1THhoBCRXH0UacmZy493yli3n7StEvwk0653yXcXT4RPc0wH1xaO1kxiFnKw==",
+  "dgSpecHash": "3VHrXxs8hmLFCX/UVoBr1RfguOQNVRFEjx3ioYparpxoxvcqLAUCfb0ywgO3CJlVHB7iJJtbS9R7SgLVPv5J5Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\heric\\source\\repos\\SquadManager\\SquadManager\\SquadManager.csproj",
   "expectedPackageFiles": [
@@ -8,7 +8,7 @@
     "C:\\Users\\heric\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\heric\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\heric\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
-    "C:\\Users\\heric\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\heric\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\heric\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
     "C:\\Users\\heric\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
   ],
