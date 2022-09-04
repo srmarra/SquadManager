@@ -24,7 +24,7 @@ namespace SquadManager.Controllers
             {
                 foreach (var failure in results.Errors)
                 {
-                    user.Email = "Property " + failure.PropertyName + " failed validation. Error was: " + failure.ErrorMessage;
+                    //user.Email = "Property " + failure.PropertyName + " failed validation. Error was: " + failure.ErrorMessage;
                     Console.WriteLine("Property " + failure.PropertyName + " failed validation. Error was: " + failure.ErrorMessage);
                 }
 

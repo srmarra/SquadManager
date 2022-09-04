@@ -1,6 +1,6 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Comoon;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-
 namespace API.Controllers
 {
     [Route("api/[controller]")]
@@ -10,13 +10,20 @@ namespace API.Controllers
         /// <summary>
         /// 
         /// </summary>
-        /// <param name="username"> Username do usuario</param>
-        /// <param name="password">senha do usuario</param>
-        /// <returns></returns>
-        [HttpGet]
-        public IActionResult Login(string username, string password)
+        /// <param name="user">Username e Senha do usuarios</param>
+        /// <returns>OK se estiver OK</returns>
+        [HttpPost]
+        public IActionResult Login(UserModel user)
         {
-            return Ok(new { response = "Está Logado"});
+            if (user.Password == "123")
+            {
+                return Ok(new { response = "OK" });
+            }
+            else
+            {
+                return Ok(new { response = "ERRO" });
+
+            }
         }
     }
 }

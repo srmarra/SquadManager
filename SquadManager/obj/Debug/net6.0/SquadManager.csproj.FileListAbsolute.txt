@@ -41,3 +41,4 @@ C:\Users\heric\source\repos\SquadManager\SquadManager\bin\Debug\net6.0\Repositor
 C:\Users\heric\source\repos\SquadManager\SquadManager\bin\Debug\net6.0\API.pdb
 C:\Users\heric\source\repos\SquadManager\SquadManager\bin\Debug\net6.0\Comoon.pdb
 C:\Users\heric\source\repos\SquadManager\SquadManager\bin\Debug\net6.0\Repository.pdb
+C:\Users\heric\source\repos\SquadManager\SquadManager\bin\Debug\net6.0\API.xml
